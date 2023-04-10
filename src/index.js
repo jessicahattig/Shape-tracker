@@ -1,4 +1,6 @@
 //UI Logic
+import Triangle from './triangle.js';
+
 function handleTriangleForm() {
     event.preventDefault();
     document.querySelector('#response').innerText = null;
