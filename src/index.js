@@ -16,6 +16,6 @@ function handleTriangleForm() {
     document.querySelector('#response').append(pTag);
   }
   
-  window.addEventListener("load", function() {
-    document.querySelector("#triangle-checker-form").addEventListener("submit", handleTriangleForm);
+  window.addEventListener('load', function() {
+    // We set up event listeners here.
   });
