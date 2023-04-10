@@ -1,4 +1,6 @@
 //UI Logic
+import './css/styles.css';
+
 import Triangle from './triangle.js';
 
 function handleTriangleForm() {
